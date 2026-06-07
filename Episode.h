@@ -4,10 +4,11 @@
 class Episode
 {
 private:
-
+	string title;
+	int season;
 public:
-	Episode(int id, string type, string name, int length, string genre, Rating rating);
-	void show() override;
+	Episode(string title,int season);
+	//void show() override;
 };
 
 

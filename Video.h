@@ -18,9 +18,9 @@ public:
 	int getId();
 	string getName();
 	void setName(string name);
+	string getType();
 	int getLength();
 	string getGenre();
-	Rating getRating();
-	virtual void show();
+	//virtual void show();
 };
 

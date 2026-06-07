@@ -1,10 +1,11 @@
 #include "Episode.h"
 
-Episode::Episode(int id, string type, string name, int length, string genre, Rating rating) {
+Episode::Episode(string title, int season) {
 
 };
-
+/*
 void Episode::show() {
 	
 };
+*/
 

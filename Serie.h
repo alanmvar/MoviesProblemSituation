@@ -7,5 +7,5 @@ private:
 
 public:
 	Serie(int id, string type, string name, int length, string genre, Rating rating);
-	void show() override;
+	//void show() override;
 };

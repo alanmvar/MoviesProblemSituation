@@ -2,13 +2,12 @@
 
 class Rating
 {
-private:
-	int rate;
-	float average;
+protected:
+	float averageRate;
 	int rateSum;
 	int rateQuant;
 public:
-	Rating();
+	Rating(float generalRate);
 	void setRate(int rated);
 	int getRates();
 	void calculateAverage();
