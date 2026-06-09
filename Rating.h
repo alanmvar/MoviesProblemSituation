@@ -1,16 +1,17 @@
 #pragma once
+#include <iostream>
+#include <stdexcept>
 
-class Rating
-{
+class Rating{
 protected:
-	float averageRate;
-	int rateSum;
-	int rateQuant;
+	float average_rate;
+	int rate_sum;
+	int rate_quant;
 public:
-	Rating(float generalRate);
-	void setRate(int rated);
-	int getRates();
+	Rating();
+	Rating(float general_rate);
 	void calculateAverage();
-	float getAverage();
-};
+	float getAverage() const;
 
+	Rating& operator+=(int new_rate);
+};

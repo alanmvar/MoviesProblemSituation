@@ -1,28 +1,37 @@
 #include "Video.h"
-Video::Video(int id, string type, string name, int length, string genre, Rating generalRate) : rating(generalRate){
-	this-> id = id;
+
+Video::Video(int id, string type, string name, int length, string genre, Rating general_rate) : rating(general_rate) {
+	this->id = id;
 	this->type = type;
 	this->name = name;
 	this->length = length;
 	this->genre = genre;
-};
-int Video::getId() {
-	return id;
-};
-string Video::getName() {
-	return name;
-};
-string Video::getType() {
-	return type;
-};
-int Video::getLength() {
-	return length;
-};
-string Video::getGenre() {
-	return genre;
-};
-/*
-void Video::show() {
+}
 
-};
-*/
+int Video::getId() const {
+	return id;
+}
+
+string Video::getName() const {
+	return name;
+}
+
+void Video::setName(string name) {
+	this->name = name;
+}
+
+string Video::getType() const {
+	return type;
+}
+
+int Video::getLength() const {
+	return length;
+}
+
+string Video::getGenre() const {
+	return genre;
+}
+
+Rating& Video::getRating() {
+	return rating;
+}

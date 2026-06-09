@@ -1,14 +1,22 @@
 #pragma once
-#include "Video.h"
+#include <string>
+#include <iostream>
+#include "Rating.h"
+
+using namespace std;
 
 class Episode
 {
 private:
-	string title;
-	int season;
+    string title;
+    int season;
+    Rating rating;
 public:
-	Episode(string title,int season);
-	//void show() override;
+    Episode(string title, int season, Rating rating);
+
+    string getTitle() const;
+    int getSeason() const;
+    Rating& getRating();
+
+    void print() const;
 };
-
-

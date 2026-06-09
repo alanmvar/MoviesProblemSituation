@@ -1,0 +1,114 @@
+ID,Type,Name,Length,Genre,Rating,Season,EpisodeTitle
+1,series,Breaking Bad,47,Crime,4.75,,
+2,series,Stranger Things,51,Drama,4.35,,
+3,movie,Inception,148,Action,4.4,,
+4,movie,The Matrix,136,SciFi,4.35,,
+5,movie,Interstellar,169,Adventure,4.3,,
+6,movie,The Godfather,175,Crime,4.6,,
+7,movie,The Dark Knight,152,Action,4.5,,
+8,movie,Fight Club,139,Drama,4.4,,
+9,movie,Forrest Gump,142,Drama,4.4,,
+10,series,The Office,22,Comedy,4.5,,
+11,movie,Goodfellas,145,Biography,4.35,,
+12,movie,The Shawshank Redemption,142,Drama,4.65,,
+13,movie,Pulp Fiction,154,Crime,4.45,,
+14,movie,The Lord of the Rings: The Return of the King,201,Action,4.5,,
+15,series,Game of Thrones,57,Action,4.6,,
+16,movie,Spirited Away,125,Animation,4.3,,
+17,movie,Parasite,132,Drama,4.25,,
+18,movie,Gladiator,155,Action,4.25,,
+19,movie,The Lion King,89,Animation,4.25,,
+20,movie,The Prestige,130,Drama,4.25,,
+21,movie,Memento,113,Mystery,4.2,,
+22,movie,The Silence of the Lambs,118,Crime,4.3,,
+23,movie,Se7en,127,Crime,4.3,,
+24,series,Friends,22,Comedy,4.45,,
+25,series,Sherlock,90,Mystery,4.55,,
+26,series,Narcos,49,Biography,4.4,,
+27,movie,Whiplash,106,Drama,4.25,,
+28,movie,The Departed,151,Crime,4.25,,
+29,series,Fargo,53,Crime,4.45,,
+30,movie,Psycho,109,Horror,4.25,,
+31,series,Chernobyl,60,Drama,4.7,,
+32,movie,Avatar,162,Action,3.95,,
+1,episode,,,,3,1,Green Light
+1,episode,,,,3,2,Down
+1,episode,,,,3,3,Fly
+1,episode,,,,4,1,Pilot
+1,episode,,,,4,2,Grilled
+1,episode,,,,4,3,Half Measures
+1,episode,,,,5,4,Face Off
+1,episode,,,,5,5,Ozymandias
+1,episode,,,,5,5,Felina
+2,episode,,,,3,2,The Lost Sister
+2,episode,,,,3,1,The Weirdo on Maple Street
+2,episode,,,,3,3,The Case of the Missing Lifeguard
+2,episode,,,,4,1,The Vanishing of Will Byers
+2,episode,,,,4,2,The Upside Down
+2,episode,,,,4,3,The Bite
+2,episode,,,,5,2,The Gate
+2,episode,,,,5,3,The Battle of Starcourt
+2,episode,,,,5,4,The Piggyback
+10,episode,,,,3,6,The Banker
+10,episode,,,,3,8,Get the Girl
+10,episode,,,,3,6,Mafia
+10,episode,,,,4,1,Pilot
+10,episode,,,,4,2,Casino Night
+10,episode,,,,4,3,The Job
+10,episode,,,,5,4,Dinner Party
+10,episode,,,,5,5,Stress Relief
+10,episode,,,,5,7,Goodbye Michael
+15,episode,,,,3,8,The Iron Throne
+15,episode,,,,3,8,The Bells
+15,episode,,,,3,8,The Last of the Starks
+15,episode,,,,4,1,Winter Is Coming
+15,episode,,,,4,2,Blackwater
+15,episode,,,,4,4,The Lion and the Rose
+15,episode,,,,5,3,The Rains of Castamere
+15,episode,,,,5,6,Battle of the Bastards
+15,episode,,,,5,6,The Winds of Winter
+24,episode,,,,3,4,The One with the Invitation
+24,episode,,,,3,6,The One with the Mac and C.H.E.E.S.E.
+24,episode,,,,3,7,The One with the Vows
+24,episode,,,,4,1,The Pilot
+24,episode,,,,4,2,The One with the Prom Video
+24,episode,,,,4,3,The One with the Morning After
+24,episode,,,,5,4,The One with the Embryos
+24,episode,,,,5,5,The One Where Everybody Finds Out
+24,episode,,,,5,10,The Last One
+25,episode,,,,3,4,The Six Thatchers
+25,episode,,,,3,4,The Lying Detective
+25,episode,,,,3,4,The Final Problem
+25,episode,,,,4,1,A Study in Pink
+25,episode,,,,4,1,The Blind Banker
+25,episode,,,,4,1,The Great Game
+25,episode,,,,5,2,A Scandal in Belgravia
+25,episode,,,,5,2,The Reichenbach Fall
+25,episode,,,,5,3,His Last Vow
+26,episode,,,,3,1,Descenso
+26,episode,,,,3,2,Free at Last
+26,episode,,,,3,3,The Kingpin Strategy
+26,episode,,,,4,1,The Sword of Simon Bolivar
+26,episode,,,,4,2,Al Fin Cayo!
+26,episode,,,,4,3,Checkmate
+26,episode,,,,5,1,Explosivos
+26,episode,,,,5,2,Our Man in Madrid
+26,episode,,,,5,3,Going Back to Cali
+29,episode,,,,3,1,The Crocodile's Dilemma
+29,episode,,,,3,2,Waiting for Dutch
+29,episode,,,,3,3,The Law of Vacant Places
+29,episode,,,,4,1,A Fox Ought to Be Tricky
+29,episode,,,,4,2,The Myth of Sisyphus
+29,episode,,,,4,3,The Principle of Restricted Choice
+29,episode,,,,5,1,Buridan's Ass
+29,episode,,,,5,2,Loplop
+29,episode,,,,5,3,Somebody to Love
+31,episode,,,,3,1,1:23:45 (Alt)
+31,episode,,,,3,1,Please Remain Calm (Alt)
+31,episode,,,,3,1,Open Wide O Earth (Alt)
+31,episode,,,,4,1,01:23:45
+31,episode,,,,4,1,Please Remain Calm
+31,episode,,,,4,1,Open Wide O Earth
+31,episode,,,,5,1,The Happiness of All Mankind
+31,episode,,,,5,1,Vichnaya Pamyat
+31,episode,,,,5,1,The End

@@ -124,6 +124,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Episode.cpp" />
+    <ClCompile Include="InvalidRatingException.cpp" />
     <ClCompile Include="Movie.cpp" />
     <ClCompile Include="ProblemSituation.cpp" />
     <ClCompile Include="Rating.cpp" />
@@ -132,6 +133,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Episode.h" />
+    <ClInclude Include="InvalidRatingException.h" />
     <ClInclude Include="Movie.h" />
     <ClInclude Include="Rating.h" />
     <ClInclude Include="Serie.h" />

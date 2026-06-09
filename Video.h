@@ -1,6 +1,7 @@
 #pragma once
 #include "Rating.h"
-#include <string> 
+#include <string>
+#include <iostream>
 
 using namespace std;
 
@@ -15,12 +16,15 @@ protected:
 	Rating rating;
 public:
 	Video(int id, string type, string name, int length, string genre, Rating rating);
-	int getId();
-	string getName();
-	void setName(string name);
-	string getType();
-	int getLength();
-	string getGenre();
-	//virtual void show();
-};
+	virtual ~Video() = default; // Virtual destructor
 
+	int getId() const;
+	string getName() const;
+	void setName(string name);
+	string getType() const;
+	int getLength() const;
+	string getGenre() const;
+	Rating& getRating();
+
+	virtual void print() const = 0; // Pure virtual function
+};
