@@ -126,9 +126,10 @@
     <ClCompile Include="Episode.cpp" />
     <ClCompile Include="InvalidRatingException.cpp" />
     <ClCompile Include="Movie.cpp" />
-    <ClCompile Include="ProblemSituation.cpp" />
+    <ClCompile Include="main.cpp" />
     <ClCompile Include="Rating.cpp" />
     <ClCompile Include="Serie.cpp" />
+    <ClCompile Include="StreamingService.cpp" />
     <ClCompile Include="Video.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -137,6 +138,7 @@
     <ClInclude Include="Movie.h" />
     <ClInclude Include="Rating.h" />
     <ClInclude Include="Serie.h" />
+    <ClInclude Include="StreamingService.h" />
     <ClInclude Include="Video.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "D:\\CODES\\segundo_semestre\\ProblemSituation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{13162813-574C-4837-93AB-7300DD3188A6}|ProblemSituation.vcxproj|D:\\CODES\\segundo_semestre\\ProblemSituation\\ProblemSituation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{13162813-574C-4837-93AB-7300DD3188A6}|ProblemSituation.vcxproj|solutionrelative:ProblemSituation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{13162813-574C-4837-93AB-7300DD3188A6}|ProblemSituation.vcxproj|D:\\CODES\\segundo_semestre\\ProblemSituation\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{13162813-574C-4837-93AB-7300DD3188A6}|ProblemSituation.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13162813-574C-4837-93AB-7300DD3188A6}|ProblemSituation.vcxproj|D:\\CODES\\segundo_semestre\\ProblemSituation\\StreamingService.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{13162813-574C-4837-93AB-7300DD3188A6}|ProblemSituation.vcxproj|solutionrelative:StreamingService.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13162813-574C-4837-93AB-7300DD3188A6}|ProblemSituation.vcxproj|D:\\CODES\\segundo_semestre\\ProblemSituation\\StreamingService.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{13162813-574C-4837-93AB-7300DD3188A6}|ProblemSituation.vcxproj|solutionrelative:StreamingService.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13162813-574C-4837-93AB-7300DD3188A6}|ProblemSituation.vcxproj|D:\\CODES\\segundo_semestre\\ProblemSituation\\InvalidRatingException.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{13162813-574C-4837-93AB-7300DD3188A6}|ProblemSituation.vcxproj|solutionrelative:InvalidRatingException.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13162813-574C-4837-93AB-7300DD3188A6}|ProblemSituation.vcxproj|D:\\CODES\\segundo_semestre\\ProblemSituation\\InvalidRatingException.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{13162813-574C-4837-93AB-7300DD3188A6}|ProblemSituation.vcxproj|solutionrelative:InvalidRatingException.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{13162813-574C-4837-93AB-7300DD3188A6}|ProblemSituation.vcxproj|D:\\CODES\\segundo_semestre\\ProblemSituation\\Rating.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -13,14 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{13162813-574C-4837-93AB-7300DD3188A6}|ProblemSituation.vcxproj|D:\\CODES\\segundo_semestre\\ProblemSituation\\Rating.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{13162813-574C-4837-93AB-7300DD3188A6}|ProblemSituation.vcxproj|solutionrelative:Rating.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13162813-574C-4837-93AB-7300DD3188A6}|ProblemSituation.vcxproj|D:\\CODES\\segundo_semestre\\ProblemSituation\\InvalidRatingException.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{13162813-574C-4837-93AB-7300DD3188A6}|ProblemSituation.vcxproj|solutionrelative:InvalidRatingException.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13162813-574C-4837-93AB-7300DD3188A6}|ProblemSituation.vcxproj|D:\\CODES\\segundo_semestre\\ProblemSituation\\InvalidRatingException.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{13162813-574C-4837-93AB-7300DD3188A6}|ProblemSituation.vcxproj|solutionrelative:InvalidRatingException.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{13162813-574C-4837-93AB-7300DD3188A6}|ProblemSituation.vcxproj|D:\\CODES\\segundo_semestre\\ProblemSituation\\Episode.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -62,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,20 +94,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "StreamingService.cpp",
+              "DocumentMoniker": "D:\\CODES\\segundo_semestre\\ProblemSituation\\StreamingService.cpp",
+              "RelativeDocumentMoniker": "StreamingService.cpp",
+              "ToolTip": "D:\\CODES\\segundo_semestre\\ProblemSituation\\StreamingService.cpp",
+              "RelativeToolTip": "StreamingService.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADYBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-11T00:17:39.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StreamingService.h",
+              "DocumentMoniker": "D:\\CODES\\segundo_semestre\\ProblemSituation\\StreamingService.h",
+              "RelativeDocumentMoniker": "StreamingService.h",
+              "ToolTip": "D:\\CODES\\segundo_semestre\\ProblemSituation\\StreamingService.h",
+              "RelativeToolTip": "StreamingService.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-06-11T00:17:27.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "InvalidRatingException.cpp",
               "DocumentMoniker": "D:\\CODES\\segundo_semestre\\ProblemSituation\\InvalidRatingException.cpp",
               "RelativeDocumentMoniker": "InvalidRatingException.cpp",
               "ToolTip": "D:\\CODES\\segundo_semestre\\ProblemSituation\\InvalidRatingException.cpp",
               "RelativeToolTip": "InvalidRatingException.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-06-09T23:00:24.632Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "InvalidRatingException.h",
               "DocumentMoniker": "D:\\CODES\\segundo_semestre\\ProblemSituation\\InvalidRatingException.h",
               "RelativeDocumentMoniker": "InvalidRatingException.h",
@@ -112,20 +146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Episode.cpp",
-              "DocumentMoniker": "D:\\CODES\\segundo_semestre\\ProblemSituation\\Episode.cpp",
-              "RelativeDocumentMoniker": "Episode.cpp",
-              "ToolTip": "D:\\CODES\\segundo_semestre\\ProblemSituation\\Episode.cpp",
-              "RelativeToolTip": "Episode.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-06-09T21:56:23.746Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Video.h",
               "DocumentMoniker": "D:\\CODES\\segundo_semestre\\ProblemSituation\\Video.h",
               "RelativeDocumentMoniker": "Video.h",
@@ -133,12 +154,11 @@
               "RelativeToolTip": "Video.h",
               "ViewState": "AgIAAAIAAAAAAAAAAAAcwB0AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-06-09T21:56:18.986Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-09T21:56:18.986Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Serie.h",
               "DocumentMoniker": "D:\\CODES\\segundo_semestre\\ProblemSituation\\Serie.h",
               "RelativeDocumentMoniker": "Serie.h",
@@ -146,12 +166,11 @@
               "RelativeToolTip": "Serie.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-06-09T21:55:51.745Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-09T21:55:51.745Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Rating.h",
               "DocumentMoniker": "D:\\CODES\\segundo_semestre\\ProblemSituation\\Rating.h",
               "RelativeDocumentMoniker": "Rating.h",
@@ -159,12 +178,36 @@
               "RelativeToolTip": "Rating.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-06-09T21:54:53.446Z",
+              "WhenOpened": "2026-06-09T21:54:53.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\CODES\\segundo_semestre\\ProblemSituation\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\CODES\\segundo_semestre\\ProblemSituation\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-08T02:32:49.558Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
+              "Title": "Episode.cpp",
+              "DocumentMoniker": "D:\\CODES\\segundo_semestre\\ProblemSituation\\Episode.cpp",
+              "RelativeDocumentMoniker": "Episode.cpp",
+              "ToolTip": "D:\\CODES\\segundo_semestre\\ProblemSituation\\Episode.cpp",
+              "RelativeToolTip": "Episode.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-09T21:56:23.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Movie.h",
               "DocumentMoniker": "D:\\CODES\\segundo_semestre\\ProblemSituation\\Movie.h",
               "RelativeDocumentMoniker": "Movie.h",
@@ -172,12 +215,11 @@
               "RelativeToolTip": "Movie.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-06-09T21:54:54.053Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-09T21:54:54.053Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Rating.cpp",
               "DocumentMoniker": "D:\\CODES\\segundo_semestre\\ProblemSituation\\Rating.cpp",
               "RelativeDocumentMoniker": "Rating.cpp",
@@ -185,25 +227,11 @@
               "RelativeToolTip": "Rating.cpp",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-06-09T21:53:36.749Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-09T21:53:36.749Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProblemSituation.cpp",
-              "DocumentMoniker": "D:\\CODES\\segundo_semestre\\ProblemSituation\\ProblemSituation.cpp",
-              "RelativeDocumentMoniker": "ProblemSituation.cpp",
-              "ToolTip": "D:\\CODES\\segundo_semestre\\ProblemSituation\\ProblemSituation.cpp",
-              "RelativeToolTip": "ProblemSituation.cpp",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAABkAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-06-08T02:32:49.558Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Movie.cpp",
               "DocumentMoniker": "D:\\CODES\\segundo_semestre\\ProblemSituation\\Movie.cpp",
               "RelativeDocumentMoniker": "Movie.cpp",
@@ -211,12 +239,11 @@
               "RelativeToolTip": "Movie.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-06-09T21:57:15.241Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-09T21:57:15.241Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Serie.cpp",
               "DocumentMoniker": "D:\\CODES\\segundo_semestre\\ProblemSituation\\Serie.cpp",
               "RelativeDocumentMoniker": "Serie.cpp",
@@ -224,12 +251,11 @@
               "RelativeToolTip": "Serie.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-06-09T21:59:22.537Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-09T21:59:22.537Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Episode.h",
               "DocumentMoniker": "D:\\CODES\\segundo_semestre\\ProblemSituation\\Episode.h",
               "RelativeDocumentMoniker": "Episode.h",
@@ -237,12 +263,11 @@
               "RelativeToolTip": "Episode.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-06-09T21:53:54.423Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-09T21:53:54.423Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Video.cpp",
               "DocumentMoniker": "D:\\CODES\\segundo_semestre\\ProblemSituation\\Video.cpp",
               "RelativeDocumentMoniker": "Video.cpp",
@@ -250,8 +275,7 @@
               "RelativeToolTip": "Video.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-06-09T21:59:27.618Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-09T21:59:27.618Z"
             }
           ]
         }
